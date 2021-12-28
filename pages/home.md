@@ -7,9 +7,9 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Quit screwing around. Score big-name media coverage &amp; quality backlinks the easy way.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+HARO is a platform you can use to attract media coverage of your business. Not just any media coverage, but coverage from major news outlets—the most coveted ones on the planet.
 
 Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
 
