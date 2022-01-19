@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="144px" viewBox="0 0 147 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-88.000000, -169.000000)">
+            <g id="x" transform="translate(88.000000, 169.000000)">
+                <path d="M64.8586918,0.96702141 C13.6341885,7.87075568 -6.34454545,52.8580465 1.73581873,90.327758 C7.21352439,115.729416 25.4806188,137.62356 55.3575403,142.488415 C113.577487,151.966852 142.184818,115.042141 146.073227,82.7287168 C147.363592,72.003088 148.56047,52.661846 140.433938,38.8038923 C132.482841,25.2454032 123.292161,14.666637 111.397254,7.99237683 C99.3557682,1.23435887 84.4623197,-1.67422809 64.8586918,0.96702141 L64.8586918,0.96702141 Z" id="Path" fill="#D92324" fill-rule="nonzero"></path>
+                <g id="Actions-/-Navigation-/-close-/-24" transform="translate(43.000000, 43.000000)" fill="#FFFFFF">
+                    <polygon id="Fill" points="60 5.25 54.75 0 30 24.75 5.25 0 0 5.25 24.75 30 0 54.75 5.25 60 30 35.25 54.75 60 60 54.75 35.25 30"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

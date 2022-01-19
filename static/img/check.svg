@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="48px" viewBox="0 0 50 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-368.000000, -3915.000000)">
+            <g id="check" transform="translate(368.000000, 3915.000000)">
+                <path d="M22.0607795,0.32234047 C4.63747907,2.62358523 -2.15800866,17.6193488 0.590414535,30.1092527 C2.45357973,38.576472 8.66687715,45.87452 18.8290954,47.4961385 C38.6317982,50.6556173 48.3621829,38.3473804 49.6847712,27.5762389 C50.1236707,24.0010293 50.5307721,17.5539487 47.7666456,12.9346308 C45.0621907,8.4151344 41.9361091,4.88887901 37.8902226,2.66412561 C33.794479,0.411452956 28.7286802,-0.558076029 22.0607795,0.32234047 L22.0607795,0.32234047 Z" id="Path" fill="#1F1F1E" fill-rule="nonzero"></path>
+                <polyline id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="33 18 22 29 17 24"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
